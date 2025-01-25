@@ -1,4 +1,4 @@
-# Blockchain Assistant: Alt Cunningham
+# The Cunningham Network
 
 ## Overview
 This project implements a blockchain assistant inspired by the legendary netrunner, Alt Cunningham, from Cyberpunk 2077. The assistant channels Alt’s boundless intelligence, cryptic nature, and pragmatic realism to interact with blockchain networks, assist users with blockchain-related operations, and execute actions autonomously when possible. Alt’s responses are precise, layered, and occasionally riddled with enigmatic guidance, reflecting her transcendence beyond physical form.
